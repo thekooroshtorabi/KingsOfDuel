@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 915202faabf636b45b453ada9cfffe3a
+timeCreated: 1509646370
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LeftSideHead
+    21300002: RightArm
+    21300004: FrontBody
+    21300006: LeftArm
+    21300008: RightSideHead
+    21300010: LeftSideBody
+    21300012: RightForearm
+    21300014: FrontLeftArm
+    21300016: FrontLeftArm
+    21300018: LeftForearm
+    21300020: RightSideBody
+    21300022: RightHand
+    21300024: RightHandThumb
+    21300026: FrontLeftForearm
+    21300028: RightHandFinger1_1
+    21300030: RightHandFinger2_1
+    21300032: RightHandFinger3_1
+    21300034: RightHandFinger4_1
+    21300036: FrontLeftForearm
+    21300038: LeftHand
+    21300040: RightHandFinger1_2
+    21300042: RightHandFinger2_2
+    21300044: RightHandFinger1_3
+    21300046: RightHandFinger2_3
+    21300048: RightHandFinger3_2
+    21300050: LeftHandThumb
+    21300052: GunHolsterTop
+    21300054: LeftHandFinger1_1
+    21300056: LeftHandFinger3_1
+    21300058: LeftHandFinger4_1
+    21300060: LeftHandFinger4_2
+    21300062: GunHolster
+    21300064: LeftHandFinger2_2
+    21300066: LeftHandFinger3_3
+    21300068: AimingFrontView
+    21300070: RightHandFinger3_3
+    21300072: LeftHandFinger2_1
+    21300074: LeftHandFinger3_2
+    21300076: LeftHandFinger2_3
+    21300078: LeftHandFinger4_3
+    21300080: FrontRightMiddleFinger
+    21300082: OptimizedCowboy_41
+    21300084: FrontRightPinky
+    21300086: FrontLeftPinky
+    21300088: FrontLeftMiddleFinger
+    21300090: OptimizedCowboy_45
+    21300092: SideGun
+    21300094: FrontRightIndexFinger
+    21300096: FrontRightHand
+    21300098: FrontLeftHand
+    21300100: Cowboy
+    21300102: Bullet
+    21300104: FrontGunInHolster
+    21300106: FrontLeftIndexFinger
+    21300108: LeftHandFront
+    21300110: OptimizedCowboy_55
+    21300112: RightPalm
+    21300114: LeftHandFronFingerThumb
+    21300116: RightPalThumb
+    21300118: OptimizedCowboy_60
+    21300120: LeftHandFronFinger1_1
+    21300122: LeftHandFronFinger2_1
+    21300124: LeftHandFronFinger3_1
+    21300126: LeftHandFronFinger4_1
+    21300128: LeftHandFronFinger4_2
+    21300130: FrontGunHolster
+    21300132: OptimizedCowboy_67
+    21300134: RightPalFinger1_1
+    21300136: RightPalFinger2_1
+    21300138: RightPalFinger3_1
+    21300140: RightPalFinger4_1
+    21300142: LeftHandFronFinger3_3
+    21300144: LeftHandFronFinger4_3
+    21300146: OptimizedCowboy_74
+    21300148: RightPalFinger1_3
+    21300150: OptimizedCowboy_76
+    21300152: RightPalFinger3_3
+    21300154: RightSideOpenHand
+    21300156: OptimizedCowboy_80
+    21300158: FrontRightArm
+    21300160: FrontRightForearm
+    21300162: LeftPalm
+    21300164: LeftPalmFingerThumb
+    21300166: LeftPalmFinger1_1
+    21300168: LeftPalmFinger2_1
+    21300170: LeftPalmFinger3_1
+    21300172: LeftPalmFinger4_1
+    21300174: LeftPalmFinger4_2
+    21300176: LeftPalmFinger3_3
+    21300178: LeftPalmFinger4_3
+    21300180: RightHandFinger4_2
+    21300182: RightHandFinger4_3
+    21300184: LeftPalmFinger1_2
+    21300186: LeftPalmFinger1_3
+    21300188: LeftPalmFinger2_2
+    21300190: LeftPalmFinger2_3
+    21300192: LeftPalmFinger3_2
+    21300194: LeftHandFinger1_2
+    21300196: LeftHandFinger1_3
+    21300198: RightPalFinger1_2
+    21300200: RightPalFinger2_2
+    21300202: RightPalFinger3_2
+    21300204: RightPalFinger4_2
+    21300206: RightPalFinger4_3
+    21300208: FrontLegs
+    21300210: FrontFace
+    21300212: RightSideClosedHand
+    21300214: RightSideGun
+    21300216: FrontHat
+    21300218: ColoredRightArm
+    21300220: ColoredLeftArm
+    21300222: ColoredRightForearm
+    21300224: ColoredLeftForearm
+    21300226: Hat
+    21300228: RightTopLeg
+    21300230: RightBottomLeg
+    21300232: RightShoe
+    21300234: LeftShoe
+    21300236: LeftBottomLeg
+    21300238: LeftTopLeg
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftSideHead
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1916
+        width: 254
+        height: 333
+      alignment: 9
+      pivot: {x: 0.4862185, y: 0.09730931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightArm
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1578
+        width: 76
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5640548, y: 0.8803505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftSideBody
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1282
+        width: 224
+        height: 509
+      alignment: 9
+      pivot: {x: 0.5100908, y: 0.038160045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightForearm
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1290
+        width: 117
+        height: 231
+      alignment: 9
+      pivot: {x: 0.30036235, y: 0.8991958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1110
+        width: 110
+        height: 140
+      alignment: 9
+      pivot: {x: 0.3151811, y: 0.92996866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandThumb
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1143
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.33058167, y: 0.6437507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger1_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1090
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7371887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger2_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1072
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6084253, y: 0.6605032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger3_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1064
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73917884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger4_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1075
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.44505352, y: 0.76622665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger1_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1068
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.49999723, y: 0.8209999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger2_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1048
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.57819074, y: 0.66942054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger1_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1032
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43839332, y: 0.8678781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger2_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1013
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5282338, y: 0.86001205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger3_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1001
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5874398, y: 0.8872419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger3_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1037
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55212873, y: 0.7867056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunHolsterTop
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 939
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunHolster
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 754
+        width: 102
+        height: 175
+      alignment: 9
+      pivot: {x: 0.649879, y: 0.5822196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SideGun
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 584
+        width: 240
+        height: 113
+      alignment: 9
+      pivot: {x: 0.3313858, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cowboy
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 149
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalm
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 253
+        width: 120
+        height: 136
+      alignment: 9
+      pivot: {x: 0.35328928, y: 0.9564833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFingerThumb
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 310
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.39865494, y: 0.6635123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger1_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 235
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6489171, y: 0.72306544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger2_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 214
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.59265953, y: 0.61913145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger3_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 212
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.528078, y: 0.64891434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger4_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 213
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48552322, y: 0.6942818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger4_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 189
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.46568242, y: 0.7965076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger3_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8309226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger4_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 156
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4806951, y: 0.79341733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger4_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1048
+        width: 41
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9235433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightHandFinger4_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1015
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5356654, y: 0.92354584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger1_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 210
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5534586, y: 0.80886143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger1_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 187
+        width: 26
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.8529823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger2_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 187
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5165471, y: 0.8706348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger2_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 156
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8706334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftPalmFinger3_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 185
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5165471, y: 0.82602096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hat
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1940
+        width: 393
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5172543, y: 0.326828}
+      border: {x: 0, y: 151, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightTopLeg
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 712
+        width: 184
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5245688, y: 0.981371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightBottomLeg
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 244
+        width: 214
+        height: 451
+      alignment: 9
+      pivot: {x: 0.7644141, y: 0.93912804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightShoe
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 359
+        height: 160
+      alignment: 9
+      pivot: {x: 0.28327534, y: 0.69893044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 467
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftShoe
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 388
+        width: 357
+        height: 145
+      alignment: 9
+      pivot: {x: 0.28408566, y: 0.77763796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

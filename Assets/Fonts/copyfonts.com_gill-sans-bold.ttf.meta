@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 68ec79d58cb7e7a4c8dc415404885693
+timeCreated: 1510068481
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gill_Sans-Bold
+  fontNames:
+  - Gill_Sans-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: f3f2012ee54aeb24c856bf68b771e964
+timeCreated: 1510908503
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterMaleModel_0
+    21300002: Head
+    21300004: Face
+    21300006: Body
+    21300008: Arm
+    21300010: Forearm
+    21300012: TopLeg
+    21300014: BackHand
+    21300016: BackHandThumb
+    21300018: BackHandFinger4_1
+    21300020: BackHandFinger3_1
+    21300022: BackHandFinger2_1
+    21300024: BackHandFinger1_1
+    21300026: BackHandFinger4_2
+    21300028: BackHandFinger3_2
+    21300030: BackHandFinger4_3
+    21300032: BackHandFinger3_3
+    21300034: BackHandFinger2_3
+    21300036: BackHandFinger2_2
+    21300038: BottomLeg
+    21300040: Foot
+    21300042: CharacterMaleModel_40
+    21300044: BackHandFinger1_2
+    21300046: BackHandFinger1_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1696
+        width: 253
+        height: 333
+      alignment: 9
+      pivot: {x: 0.46804768, y: 0.11695875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Face
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1699
+        width: 221
+        height: 255
+      alignment: 9
+      pivot: {x: 0.37223244, y: 0.15822706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1076
+        width: 156
+        height: 497
+      alignment: 9
+      pivot: {x: 0.5195283, y: 0.02189971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1359
+        width: 61
+        height: 232
+      alignment: 9
+      pivot: {x: 0.628484, y: 0.8812519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Forearm
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1076
+        width: 56
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5046441, y: 0.89472514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopLeg
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 551
+        width: 124
+        height: 413
+      alignment: 9
+      pivot: {x: 0.5122276, y: 0.98460215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHand
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 817
+        width: 109
+        height: 145
+      alignment: 9
+      pivot: {x: 0.30525643, y: 0.94963676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandThumb
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 854
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42668498, y: 0.5885491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger4_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 800
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.56331563, y: 0.7089386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger3_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 783
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.59286135, y: 0.67752975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger2_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 774
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4828039, y: 0.7594658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger1_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 784
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4484106, y: 0.7401586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger4_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 778
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 0.47889432, y: 0.7443719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger3_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 757
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5386925, y: 0.7600122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger4_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 748
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8955214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger3_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 722
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5386925, y: 0.8917599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger2_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 710
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.871446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger2_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 748
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5193469, y: 0.7600122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLeg
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 121
+        height: 402
+      alignment: 9
+      pivot: {x: 0.7004918, y: 0.9865473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 34
+        width: 207
+        height: 121
+      alignment: 9
+      pivot: {x: 0.21204159, y: 0.7860391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterMaleModel_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 72
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger1_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 759
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.46285522, y: 0.79019165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackHandFinger1_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 727
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.47889432, y: 0.84448636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
